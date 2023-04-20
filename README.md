@@ -1,7 +1,7 @@
 # Data Scientist
 
-##### Skills: Python, SQL, AWS, Snowflake, MATLAB
-##### Certifications: 
+#### Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Certifications: 
 
 ## Education
 Physics, PhD
