@@ -1,5 +1,4 @@
-# Shaw Talebi
-Data Scientist
+# Data Scientist
 
 ### Skills
 Python, SQL, AWS, Snowflake, MATLAB
