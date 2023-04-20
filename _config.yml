@@ -12,7 +12,7 @@ theme: jekyll-theme-minimal
 ############################
 
 # Name of website
-title: Example-Portfolio
+title: Shaw Talebi
 
 # Your name to show in the footer
 author: Shaw Talebi
@@ -34,7 +34,7 @@ author: Shaw Talebi
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/avatar-icon.png"
+# avatar: "headshot.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
@@ -42,8 +42,6 @@ author: Shaw Talebi
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
 #title-img: /path/to/image
-
-# remote_theme: pages-themes/minimal@v0.2.0
 
 
 
