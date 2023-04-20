@@ -44,6 +44,9 @@ round-avatar: true
 title-img:  "headshot.jpeg"
 
 
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
 
 #####################################
 # --- Footer social media links --- #
