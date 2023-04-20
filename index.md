@@ -1,2 +1,0 @@
-# Shawhin Talebi
-## Data Scientist
