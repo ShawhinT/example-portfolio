@@ -1,7 +1,4 @@
-theme: minimal
-
-plugins:
-  - github-pages
+theme: jekyll-theme-minimal
 
 ###########################################################
 ### Welcome to Beautiful Jekyll!
