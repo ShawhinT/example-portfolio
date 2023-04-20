@@ -13,9 +13,7 @@ theme: jekyll-theme-minimal
 
 # Name of website
 title: Shaw Talebi
-
-# Your name to show in the footer
-author: Shaw Talebi
+description: Data Scientist
 
 ###############################################
 # --- List of links in the navigation bar --- #
