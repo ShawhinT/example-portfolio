@@ -11,11 +11,11 @@ theme: jekyll-theme-minimal
 # --- Required options --- #
 ############################
 
-# # Name of website
-# title: Example-Portfolio
+# Name of website
+title: Example-Portfolio
 
-# # Your name to show in the footer
-# author: Shaw Talebi
+# Your name to show in the footer
+author: Shaw Talebi
 
 ###############################################
 # --- List of links in the navigation bar --- #
