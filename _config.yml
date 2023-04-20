@@ -1,5 +1,8 @@
 theme: minimal
 
+plugins:
+  - github-pages
+
 ###########################################################
 ### Welcome to Beautiful Jekyll!
 ### This config file is meant for settings that affect your entire website. When you first
@@ -277,21 +280,21 @@ theme: minimal
 #     values:
 #       layout: "page"
 
-# Exclude these files from production site
-exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
+# # Exclude these files from production site
+# exclude:
+#   - CHANGELOG.md
+#   - CNAME
+#   - Gemfile
+#   - Gemfile.lock
+#   - LICENSE
+#   - README.md
+#   - screenshot.png
+#   - docs/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
+# plugins:
+#   - jekyll-paginate
+#   - jekyll-sitemap
+#   - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
