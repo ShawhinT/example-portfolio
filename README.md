@@ -7,12 +7,10 @@
 Physics, PhD
 
 ## Work Experience
-Data Scientist, Toyota Financial Services
-_June 2022 - Present_
+Data Scientist @ Toyota Financial Services (_June 2022 - Present_)
 - [Strong verb] [what I did] [impact]
 
-Data Science Consultant, Shawhin Talebi Ventures LLC
-_December 2020 - Present_
+Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)
 - [Strong verb] [what I did] [impact]
 
 ## Projects
