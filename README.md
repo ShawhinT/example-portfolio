@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Skills: Python, SQL, AWS, Snowflake, MATLAB
-#### Certifications: 
+#### Certifications: AWS Cloud Practitioner Essentials (AWS), Data Structure & Algorithms (Udemy), Tableau (Udemy)
 
 ## Education
 - Ph.D., Physics | The University of Texas at Dallas (May 2022)								       		
