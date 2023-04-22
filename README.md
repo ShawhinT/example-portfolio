@@ -8,10 +8,12 @@ Physics, PhD
 
 ## Work Experience
 Data Scientist @ Toyota Financial Services (_June 2022 - Present_)
-- [Strong verb] [what I did] [impact]
+- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Deployed payment collections model into production which enabled business partners to make data-informed decisions regarding account delinquencies
 
 Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)
-- [Strong verb] [what I did] [impact]
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover sepsis sub-phenotypes
 
 ## Projects
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
