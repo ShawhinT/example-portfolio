@@ -1,0 +1,32 @@
+.main .profile {
+  min-height: 0;
+  padding: 2rem 0 1rem;
+}
+
+.home-intro {
+  max-width: 720px;
+  margin: 0 auto 2rem;
+}
+
+.post-single .post-content h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.08rem;
+}
+
+.post-single .post-content details {
+  margin: 0.8rem 0 1.5rem;
+  padding: 0.7rem 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--code-bg);
+}
+
+.post-single .post-content summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.post-single .post-content details p:last-child {
+  margin-bottom: 0;
+}

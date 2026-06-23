@@ -1,0 +1,43 @@
+baseURL: "https://joonho-phil-hwang.github.io/"
+languageCode: "en-us"
+title: "Joonho (Phil) Hwang"
+theme: "PaperMod"
+enableRobotsTXT: false
+
+params:
+  description: "Joonho (Phil) Hwang is a PhD student in economics at Seoul National University."
+  author: "Joonho (Phil) Hwang"
+  keywords: ["Joonho Hwang", "econometrics", "panel data", "causal inference", "Seoul National University"]
+  defaultTheme: light
+  disableThemeToggle: false
+  disableScrollToTop: true
+  ShowReadingTime: false
+  ShowShareButtons: false
+  ShowPostNavLinks: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  hideFooter: false
+  analytics:
+    google:
+      SiteVerificationTag: "nJZS8P1pi_xAjH-fMItjcU3Ek_wyatmWAhKJQ20Kj-U"
+  profileMode:
+    enabled: true
+    title: "Joonho (Phil) Hwang"
+    subtitle: "PhD student in Economics, Seoul National University"
+    imageUrl: "/assets/img/profile2.png"
+    imageTitle: "Joonho (Phil) Hwang"
+    imageWidth: 180
+    imageHeight: 180
+    buttons:
+      - name: Research
+        url: "/research/"
+      - name: CV
+        url: "https://drive.google.com/file/d/13QDqi6l7taFGNiiQqLaE9hcR6tynHDkJ/view?usp=sharing"
+  socialIcons:
+    - name: Email
+      url: "mailto:jhhwang24@snu.ac.kr"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
